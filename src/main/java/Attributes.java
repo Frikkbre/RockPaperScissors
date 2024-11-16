@@ -55,21 +55,6 @@ public class Attributes {
             System.out.println("you win!");
         }
 
-        /*else if (choice.equals("Rock") && randomChoice == 1) {
-            System.out.println("you loose!");
-        }
-
-        else if (choice.equals("Paper") && randomChoice == 2) {
-            System.out.println("you loose!");
-        }
-
-        else if (choice.equals("Scissors") && randomChoice == 0) {
-            System.out.println("you loose!");
-        }
-
-        else{
-            System.out.println("Draw!");
-        }*/
         else if (choice.equals(randomChoice)){
             System.out.println("Draw!");
         }
